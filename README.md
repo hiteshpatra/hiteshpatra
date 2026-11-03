@@ -25,7 +25,7 @@ Security Researcher | Red Teamer | Breaker of Things | Conference Builder
 I'm a **security researcher by heart** — I love to break things until I understand exactly how they work, then figure out how to defend them. My focus is **offensive security** across cloud, AI, web, and APIs, and I bring the same curiosity to building a community around it.
 
 - 🔥 Living on the offensive side — Cloud, AI, Red Teaming, Web & API
-- 🎤 Co-Founder of [**VulnCon**](https://vulncon.in) — building a security conference for the community
+- 🎤 Co-Founder of [**Vulncon**](https://vulncon.in) — building a security conference for the community
 - 🧪 Always poking at new attack surfaces and emerging tech
 - 🤝 Sharing research, tooling, and war stories with fellow hackers
 
@@ -71,4 +71,4 @@ I'm a **security researcher by heart** — I love to break things until I unders
 Working on something at the crossroads of offensive security, cloud, AI, or just want to talk about breaking things?
 Ping me on [LinkedIn](https://www.linkedin.com/in/hitesh-patra/) — always up for a good security chat.
 
-And if you're into security conferences, come check out [**VulnCon**](https://vulncon.in) 🎟️
+And if you're into security conferences, come check out [**Vulncon**](https://vulncon.in) 🎟️
