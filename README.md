@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Hitesh Patra</h1>
 <p align="center">
-  🔥 Offensive Security Researcher | ☁️ Cloud & AI Red Teaming | 🕸️ Web & API Hacking | 🎤 Co-Founder @ VulnCon
+  🔥 Offensive Security Researcher | ☁️ Cloud & AI Red Teaming | 🕸️ Web & API Hacking | 🎤 Co-Founder @ Vulncon
 </p>
 
 <p align="center">
